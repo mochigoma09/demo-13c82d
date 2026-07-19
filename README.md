@@ -1,2 +1,3 @@
 # demo-13c82d
-Auto generated demo site for ミシナ動物病院
+
+AIによって自動生成された ミシナ動物病院 様向けのデモサイトです。
